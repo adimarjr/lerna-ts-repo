@@ -23,6 +23,8 @@ jobs:
   publish-gpr:
     needs: build
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{secrets.GH_TOKEN}}
     permissions:
       contents: read
       packages: write
