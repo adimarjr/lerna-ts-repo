@@ -1,11 +1,13 @@
 {
   "packages": [
-    "packages/*"
+    "packages/*",
+    "apps/*"
   ],
   "version": "independent",
   "command": {
     "version": {
       "allowBranch": "master"
     }
-  }
+  },
+  "ignoreChanges": ["**/__fixtures__/**", "**/__tests__/**", "**/tests/**", "**/*.md"]
 }
