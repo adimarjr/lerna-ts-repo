@@ -15,6 +15,9 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "url": "https://github.com/adimarjr/lerna-ts-repo"
+  },
   "scripts": {
     "dev": "vite --mode=dev",
     "build": "vite build --mode prod && vue-tsc --emitDeclarationOnly",
