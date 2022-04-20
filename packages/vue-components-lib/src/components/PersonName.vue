@@ -15,5 +15,5 @@ defineProps({
 </script>
 
 <template>
-    <div>{{person.firstName}} {{person.lastName}}</div>
+    <div>Name: {{person.firstName}} {{person.lastName}}</div>
 </template>
