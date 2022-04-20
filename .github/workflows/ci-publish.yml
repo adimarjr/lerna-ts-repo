@@ -34,6 +34,10 @@ jobs:
         with:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
+      - name: setup git config
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
       - run: npx lerna bootstrap
       - run: npx lerna run build
       - run: npx lerna version --conventional-commits --yes
