@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/adimarjr/lerna-ts-repo/compare/@adimarjr/vue-components-lib@0.0.6...@adimarjr/vue-components-lib@0.1.0) (2022-04-20)
+
+
+### Features
+
+* test change ([d3bb8d6](https://github.com/adimarjr/lerna-ts-repo/commit/d3bb8d690fa2a602e2d1af291d7c7d48783c9af7))
+
+
+
+
+
 ## 0.0.6 (2022-04-20)
 
 **Note:** Version bump only for package @adimarjr/vue-components-lib
