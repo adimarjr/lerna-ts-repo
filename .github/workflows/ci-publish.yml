@@ -41,6 +41,6 @@ jobs:
       - run: npx lerna bootstrap
       - run: npx lerna run build
       - run: npx lerna version --conventional-commits --yes
-      - run: npx lerna publish from-git
+      - run: npx lerna publish from-git --yes
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
