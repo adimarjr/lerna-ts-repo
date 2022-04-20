@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/adimarjr/lerna-ts-repo/compare/@adimarjr/my-entities@0.0.6...@adimarjr/my-entities@0.1.0) (2022-04-20)
+
+
+### Features
+
+* add middle name ([406d0cb](https://github.com/adimarjr/lerna-ts-repo/commit/406d0cbff5f5ded98790d1d9f705356b57c8e045))
+
+
+
+
+
 ## 0.0.6 (2022-04-20)
 
 **Note:** Version bump only for package @adimarjr/my-entities
