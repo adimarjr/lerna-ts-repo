@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.1](https://github.com/adimarjr/lerna-ts-repo/compare/@adimarjr/vue-components-lib@0.1.0...@adimarjr/vue-components-lib@0.1.1) (2022-04-20)
+
+
+### Bug Fixes
+
+* typo ([e93b9f4](https://github.com/adimarjr/lerna-ts-repo/commit/e93b9f47894b369a2889fd6f8f4ac1b07e7ad5ca))
+
+
+
+
+
 # [0.1.0](https://github.com/adimarjr/lerna-ts-repo/compare/@adimarjr/vue-components-lib@0.0.6...@adimarjr/vue-components-lib@0.1.0) (2022-04-20)
 
 
