@@ -1,9 +1,14 @@
+import type { IPerson } from '@adimarjr/my-entities'
 import { defineStore } from 'pinia'
 
 export const useCounterStore = defineStore({
   id: 'counter',
   state: () => ({
-    counter: 0
+    counter: 0,
+    person: <IPerson>{
+      firstName: '',
+      lastName: ''
+    }
   }),
   getters: {
     doubleCount: (state) => state.counter * 2
