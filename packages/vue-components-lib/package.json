@@ -1,6 +1,6 @@
 {
   "name": "@adimarjr/vue-components-lib",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "./dist/index.cjs.js",
   "module": "./dist/index.esm.js",
   "types": "./dist/types/index.d.ts",
@@ -28,7 +28,7 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
-    "@adimarjr/my-entities": "^0.1.0",
+    "@adimarjr/my-entities": "^0.2.0",
     "vue": "^3.2.31"
   },
   "devDependencies": {

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/adimarjr/lerna-ts-repo/compare/@adimarjr/my-entities@0.1.0...@adimarjr/my-entities@0.2.0) (2022-04-22)
+
+
+### Features
+
+* add Address interface ([070d35e](https://github.com/adimarjr/lerna-ts-repo/commit/070d35e8136e319ac10fe90881dfe40340c7f73a))
+
+
+
+
+
 # [0.1.0](https://github.com/adimarjr/lerna-ts-repo/compare/@adimarjr/my-entities@0.0.6...@adimarjr/my-entities@0.1.0) (2022-04-20)
 
 
