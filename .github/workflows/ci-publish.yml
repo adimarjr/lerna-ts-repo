@@ -4,6 +4,9 @@
 name: CI-version-and-publish-pkg
 
 on:
+  push:
+    branches:
+      - master
   workflow_dispatch:
 
 jobs:
