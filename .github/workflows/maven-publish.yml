@@ -5,7 +5,7 @@ name: Maven Package App
 
 on:
   release:
-    types: [created]
+    types: [created, published]
 
 jobs:
   build:
@@ -30,4 +30,4 @@ jobs:
       run: mvn deploy
       working-directory: /apps/sample-app
       env:
-        GITHUB_TOKEN: ${{ github.token }}
+        GITHUB_TOKEN: ${{secrets.GH_TOKEN}}
