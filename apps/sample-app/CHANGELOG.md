@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.3](https://github.com/adimarjr/lerna-ts-repo/compare/sample-app@0.2.2-fix2...sample-app@0.2.3) (2022-05-16)
+
+
+### Bug Fixes
+
+* POM.xml ([1663513](https://github.com/adimarjr/lerna-ts-repo/commit/166351394d30619b34cbe0469084c406ed0069e3))
+
+
+
+
+
 ## [0.2.2](https://github.com/adimarjr/lerna-ts-repo/compare/sample-app@0.2.1...sample-app@0.2.2) (2022-05-16)
 
 
