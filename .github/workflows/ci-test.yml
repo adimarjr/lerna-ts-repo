@@ -41,4 +41,4 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
-      - run: ls
+      - run: npx lerna run test:e2e:ci
